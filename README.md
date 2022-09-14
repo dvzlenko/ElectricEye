@@ -17,7 +17,7 @@ The raw electric data collected using two 32-channel ADCs, so we do have two raw
 
 
 The raw data are quite large, so we decided to host them in one of the available servers in Moscow State University. Please find them here:
-http://caas.ru/stuff/ElectricEye/
+http://caas.ru/stuff/ElectricEyeData/
 
 Please, fill free to mail me: dvzlenko@gmail.com
 
